@@ -4,7 +4,7 @@ Este repositório contém um projeto em **C# (Console Application)** desenvolvid
 
 
 
-## ?? Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. **Clone este repositório:**
    ```bash
