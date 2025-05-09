@@ -1,13 +1,13 @@
-# Teste Técnico - Desenvolvedor 2
+# Teste
 
-Este repositório contém um projeto em **C# (Console Application)** desenvolvido como parte de um teste técnico.
+Este repositÃ³rio contÃ©m um projeto em **C# (Console Application)** desenvolvido como parte de um teste tÃ©cnico.
 
 
 
 ## ?? Como Executar o Projeto
 
-1. **Clone este repositório:**
+1. **Clone este repositÃ³rio:**
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-   Iniciar a aplicação no Visual Studio ou via terminal com `dotnet run`.
+   Iniciar a aplicaÃ§Ã£o no Visual Studio ou via terminal com `dotnet run`.
